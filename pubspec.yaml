@@ -4,6 +4,7 @@ environment:
   sdk: ^3.8.0-0
 
 workspace:
+  - ehab
   - dev/a11y_assessments
   - dev/automated_tests
   - dev/benchmarks/complex_layout
